@@ -1,5 +1,5 @@
 ---
-title: "Can we copy files with python?"
+title: "Copying files with Python"
 date: 2020-5-10
 categories:
   - blog
