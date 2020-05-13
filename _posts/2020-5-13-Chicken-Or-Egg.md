@@ -12,7 +12,7 @@ The age old question still remains,
 
 ## Which Came First? The Chicken or the Egg?
 
-As a joke I used to tell people, "what you order first in a restaurant." But now I have the knowledge (science bitch!) and time (lockdown) to answer this bubbling question for everyone.
+As a joke I used to tell people, "what you order first in a restaurant." But now I have the knowledge (science, bitch!) and time (lockdown) to answer this bubbling question for everyone.
 
 It's the egg.
 
