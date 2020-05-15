@@ -8,7 +8,7 @@ tags:
   - mirrors
 ---
 
-As I was looking at myself in the mirror today, I had a thought. Is the mirror silver? I knew why it reflects and how we can see ourselves in it. But I really didn't pay much attention to the colour of the mirror and alwasy assumed it to be silver. Is it?
+As I was looking at myself in the mirror today, I had a thought. Is the mirror silver? I knew why it reflects and how we can see ourselves in it. But I really didn't pay much attention to the colour of the mirror and alwasy assumed it to be silver. But is it?
 
 ## What Is the Colour of a Mirror?
 
