@@ -8,7 +8,7 @@ tags:
   - birds
 ---
 
-The period of national lockdown has certainly increased the number of flying visitors to the town. Many different kinds of birds can be seen freely moving around in the rather smokeless skies of the city. Most of the birds can be found percing on top of the omnipresent electric wires in the neighbourhood. I once saw a video of a man atop a train touching a naked electric wire and getting burned instantaneously. What's so special about these little birds anyways?
+The period of national lockdown has certainly increased the number of flying visitors to the town. Many different kinds of birds can be seen freely moving around in the rather smokeless skies of the city. Most of the birds can be found perching on top of the omnipresent electric wires in the neighbourhood. I once saw a video of a man atop a train touching a naked electric wire and getting burned instantaneously. What's so special about these little birds anyways?
 
 ## Why Don't Birds Get Electrocuted on Electric Wires?
 
