@@ -15,7 +15,7 @@ I've started cooking recently. The only thing that is more annoying than forgett
 
 ![Onions](/assets/images/crying_onion.jpg)
 
-Turns out, the onion doesn't want other animals to eat it (nothing new. plants do this often, check out the chilli). Chopping an onion breaks down its cells and a reaction occurs as detailed below:
+Turns out, the onion doesn't want other animals to eat it (nothing new. plants do this often, check out the [chilli](https://aceking007.github.io/blog/Hot-Stuff/)). Chopping an onion breaks down its cells and a reaction occurs as detailed below:
 * Lachrymatory-factor synthase is released into the air
 * The synthase enzyme converts the amino acids sulfoxides of the onion into sulfenic acid
 * The unstable sulfenic acid rearranges itself into syn-propanethial-S-oxide
