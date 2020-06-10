@@ -15,7 +15,7 @@ It's fascinating how fast you can go from a packet seeds to fluffy popcorn befor
 
 The reason why popcorn "pops" can be attributed to Chemistry and Physics. Corn kernels have two layers; the outer, transparent **hull** and the inner **endosperm**. The construction and interaction of the two layers gives rise to the special *pop*.  
 
-[Corn Kernel](/assets/images/corn-kernel.png)
+![Corn Kernel](/assets/images/corn-kernel.png)
 
 The hull is the hard outer layer, impervious to moisture - no moisture is released till the hull is breached. The endosperm contains hard starch and a little amount of moisture. It is rock hard before it is popped (can be attested by a friend who started bleeding after biting into an unpopped kernel too hard).
 
