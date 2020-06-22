@@ -6,6 +6,7 @@ categories:
 tags:
   - answer me everything
   - sneezing
+  - myths
 ---
 
 There are just some questions that are really hard to not notice. I have always wanted to know what happens if someone tries to sneeze with their eyes open? I've tried it on several occasions, but all in vain. It's even difficult to imagine how one can do something like that.
