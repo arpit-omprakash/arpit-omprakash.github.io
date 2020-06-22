@@ -1,4 +1,10 @@
-# Minimal Mistakes remote theme starter
+# A Pinch Of Life
+This is a modified Minimal mistakes theme that I have used for my blog.
+The blog is setup using GitHub Pages.
+Feel free to drop an e-mail @ omprakasharpit@gmail.com if you have any doubts regarding forking this repo or setting up your own minimal mistakes repo for your website.
+Enjoy the blog [here](https://aceking007.github.io/).
+
+# Minimal Mistakes remote theme starter help
 
 Fork this repo for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
 
@@ -14,7 +20,7 @@ Contains basic configuration to get you a site with:
 - Sample 404 page.
 - Site wide search.
 
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
+Replace content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
 
 ---
 
