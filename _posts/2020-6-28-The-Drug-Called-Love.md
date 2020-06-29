@@ -26,4 +26,4 @@ Evolutionary psychology has proposed several explanations for love. Monkey infan
 It has been suggested that the human capacity to experience love has been evolved as a signal to potential mates that the partner will be a good parent and be likely to help pass genes to future generations.
 
 Science has recently touched upon the subject of love and has since been able to tell how it chemically affects our body. However, the purpose of love has been subject to wide speculation. Explaining love isn't really that simple though. Apart from the chemicals and the logical reason for the development of such feelings, feelings have a sort of psychological abstraction that is not easy to capture.  
-At the end of the day, that's why were special, we are a biological bag of chemicals wrapped up in psychosocial abstractions.
+At the end of the day, that's why were special, *we are a biological bag of chemicals wrapped up in psychosocial abstractions.*
