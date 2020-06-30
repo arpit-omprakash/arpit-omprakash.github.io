@@ -6,6 +6,8 @@ categories:
 tags:
   - experimentalism
   - origins of life
+  - biology
+  - chemistry
 ---
 
 Welcome back to the blog! As I mentioned [previously](https://aceking007.github.io/blog/A-New-Beginning/), today's post is regarding the beginning of life. Without further ado, let's jump in to the experiment:
