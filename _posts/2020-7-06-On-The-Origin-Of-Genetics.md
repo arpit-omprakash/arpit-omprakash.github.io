@@ -73,6 +73,6 @@ Mendel was quite ahead of his time, formulating theories based on statistical ex
 ## A Sound Experiment?
 Even the most simple arrangement like initially starting out with just true-breeding varieties or having a large enough sample size is a major point that leads to credible data. He had the foresight to follow up with successive generations (F<sub>1</sub>, F<sub>2</sub>, F<sub>3</sub>, F<sub>4</sub>) and record their variations. Finally, he conducted **test-crosses** (hybridizing F<sub>2</sub> generation with the P generation) to reveal the presence and proportion of recessive traits.
 
->The *marvel of Mendel* lies in the impeccable experimental design that is guaranteed to provide a stockpile of mathematically sound data which can be used to gain insights into unseen forces and processes of nature.
+>The *marvel of Mendel* lies in the impeccable experimental design that is guaranteed to provide a stockpile of mathematically sound data. Which can be used to gain insights into unseen forces and processes of nature.
 
 It is something that we, as scientists, should always strive for.
