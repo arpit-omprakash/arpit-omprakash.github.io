@@ -9,7 +9,7 @@ Here are some of the projects that I managed to host using GitHub Pages:
 
 + [Basic Tetris](https://aceking007.github.io/Tetris/) - Second try at CSS and Javascript. A simple game of Tetris. The game features standard Tetris rotations and 7 Tetromino shapes. Currently working on improving the UI design of the page. Suggest me something!
 
-+ [Chess](https://aceking007.github.io/chess/) - A game of chess that you can play with someone on your browser. There is a feature of simulating a game of chess where two bots are pit against each other and they play random moves (currently working on a chess engine that would help better the simulations and maybe I'll also have an AI player to play against). I'm debating whether to integrate Stockfish or wait till I develop my own chess AI.
++ [Chess](https://aceking007.github.io/chess/) - A game of chess that you can play with someone (or vs my simple AI) on your browser. There is a feature of simulating a game of chess where two bots are pit against each other and they play random moves. The AI is implemented using Javascript and uses the Minimax algorithm (with alpha beta pruning) to help with the search.
 
 Check out my pens and other short web projects on Codepen.io:
 
