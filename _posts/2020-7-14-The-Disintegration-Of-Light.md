@@ -34,7 +34,7 @@ First a simple experiment was carried out where Newton passed a beam of sunlight
 Next, Newton added a second prism to the experiment. This led to two different setups:
 
 + First, he isolated a single colour from the split sunlight and exposed it to a second prism. *He observed that the colour did not further split into different colours*.  
-![Single Colour](assets/images/newton-prism-two.gif)
+![Single Colour](assets/images/newton-prism-two.jpg)
 
 + Secondly, he exposed all of the colours that escaped the first prism to a second **inverted** prism. *This led to the re-emergence of white light from the second prism*.  
 ![Recombination](/assets/images/newton-prism.jpg)
