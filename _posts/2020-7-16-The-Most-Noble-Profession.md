@@ -19,4 +19,4 @@ We should not forget that the primary goal of a profession is to provide for sel
 
 The nobility of the profession is discussed to a very large extent in our society and most people are categorized or stereotyped according to their profession. But, **profession is just one aspect of someone's life**. What I feel should be used to categorize people, if at all it is necessary, is their passion (I digress). Things that they enjoy doing.
 
-(Back on track) Putting people into blocks of profession and giving them a general notion of nobility according to their job is something weird for me. Instead I think we should all try to individually ascertain the nobility of a given individual. Hopefully people will understand this someday.
+(Back on track) Putting people into blocks of profession and giving them a general notion of nobility according to their job is something weird for me. Instead I think we should all try to ascertain the nobility of a given individual. Hopefully people will understand this someday.
