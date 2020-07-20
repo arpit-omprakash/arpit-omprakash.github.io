@@ -1,4 +1,9 @@
 # A Pinch Of Life
+[![Website aceking007.github.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://aceking007.github.io/)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/aceking007/aceking007.github.io/graphs/commit-activity)
+
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/aceking007/)
+
 This is a modified Minimal mistakes theme that I have used for my blog.
 The blog is setup using GitHub Pages.
 Feel free to drop an e-mail @ omprakasharpit@gmail.com if you have any doubts regarding forking this repo or setting up your own minimal mistakes repo for your website.
