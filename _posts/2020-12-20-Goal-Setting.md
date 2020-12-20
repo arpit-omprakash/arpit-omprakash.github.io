@@ -30,7 +30,7 @@ The three next questions deal with the importance of the work. *What will you ge
 
 The final question deals with tracking progress. It is important to be able to track your progress from time to time to check whether you are stalling or if your approach is not working as intended.
 
-In some ways I found it very similar to the SMART method of goal setting that I've been trying out since sometime now. I found out about it mostly from the myIDPScienceCareers(https://myidp.sciencecareers.org/Account/LogOn?) website.
+In some ways I found it very similar to the SMART method of goal setting that I've been trying out since sometime now. I found out about it mostly from the [myIDPScienceCareers](https://myidp.sciencecareers.org/Account/LogOn?) website.
 
 The SMART approach of goal setting dictates one to set goals that are
 - Specific
