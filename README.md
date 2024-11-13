@@ -7,7 +7,7 @@
 This is a modified Minimal mistakes theme that I have used for my blog.
 The blog is setup using GitHub Pages.
 Feel free to drop an e-mail @ omprakasharpit@gmail.com if you have any doubts regarding forking this repo or setting up your own minimal mistakes repo for your website.
-Enjoy the blog [here](https://aceking007.github.io/).
+Enjoy the blog [here](https://arpit-omprakash.github.io/).
 
 # Minimal Mistakes remote theme starter help
 
