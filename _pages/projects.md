@@ -7,6 +7,8 @@ title: "Projects"
 
 + [CipherX](https://github.com/arpit-omprakash/CipherX) - A python package for simple encryption and decryption. This is not meant for hardcore security and includes just basic traditional ciphers that can be used by hobbyists and people starting out in cryptography and analysis.
 
++ [Locky Password Manager](https://arpit-omprakash.github.io/locky/) - A simple and secure GUI password manager for Windows 10/11. Currently working on the Linux release. Simple. Secure. Offline. Lightweight.
+
 **Here are some of the fun projects that I managed to host using GitHub Pages:**
 
 + [Pictionary Word Generator](https://arpit-omprakash.github.io/pictionary_word_generator/) - Generates a random word from a predefined list of words without repeating words. Displays the word meaning in the webpage. I'm currently working on making this a bit more beautiful and improve functionality by adding in more lists from online. (Have to learn more CSS and Javascript)
