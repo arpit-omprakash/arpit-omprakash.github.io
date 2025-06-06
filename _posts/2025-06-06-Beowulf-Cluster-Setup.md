@@ -13,8 +13,6 @@ tags:
   - nfs
 ---
 
-# Beowulf Cluster Setup
-
 After looking around on the internet for a long time and numerous trial and error attempts (with my last attempt in October 2024 being hugely unsuccessful due to heterogenous computing systems in the lab) I was finally able to setup a small HPC cluster in the lab using off-the-shelf PCs running on Ubuntu. The primary goal was to achieve worry free computing across multiple devices and being able to access it via my lab PC from anywhere.  
 I am no expert, but what I have written here is a no-shit general guide and *probably* the fastest way to setup and run a small HPC cluster using Ubuntu PCs. It also serves as a recollective guide for when I eventually try to do this all over again somewhere else (knowing myself, very likely that I'll do it all over again). The core setup consists of the following tools:
 - [SSH](https://en.wikipedia.org/wiki/Secure_Shell) - for easy access to various nodes on the cluster
