@@ -2,3 +2,6 @@ _site
 .sass-cache
 .jekyll-metadata
 Gemfile.lock
+
+# Template file for posts
+_posts/2022-12-08-Template.md
