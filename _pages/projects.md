@@ -5,7 +5,7 @@ title: "Projects"
 
 **A few of my tries at software development:**
 
-+ [CipherX](https://github.com/arpit-omprakash/CipherX) - A python package for simple encryption and decryption. This is not meant for hardcore security and includes just basic traditional ciphers that can be used by hobbyists and people starting out in cryptography and analysis.
++ [Cryptex Tools](https://pypi.org/project/cryptex-tools/) - An educational cryptography toolkit written in Python, designed for learners and hobbyists. It demonstrates classical ciphers, basic cryptanalysis tools, and allows users to experiment with encryption and decryption via a simple command-line interface (CLI).
 
 + [Locky Password Manager](https://arpit-omprakash.github.io/locky/) - A simple and secure GUI password manager for Windows 10/11. Currently working on the Linux release. Simple. Secure. Offline. Lightweight.
 
